@@ -1,0 +1,7 @@
+Create a folder with given files in server 
+
+From the folder path 
+run npm install 
+npm run start 
+
+Your node server must be available in the configured port
